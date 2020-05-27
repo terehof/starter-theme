@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "htmlburger/carbon-fields",
-            "version": "v3.1.12",
+            "version": "v3.1.20",
             "source": {
                 "type": "git",
                 "url": "https://github.com/htmlburger/carbon-fields.git",
-                "reference": "960100f6d3b93902a774a1986d321ea6213b924e"
+                "reference": "0688b493efcf97aab9f540d399813e1392fe30cd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/htmlburger/carbon-fields/zipball/960100f6d3b93902a774a1986d321ea6213b924e",
-                "reference": "960100f6d3b93902a774a1986d321ea6213b924e",
+                "url": "https://api.github.com/repos/htmlburger/carbon-fields/zipball/0688b493efcf97aab9f540d399813e1392fe30cd",
+                "reference": "0688b493efcf97aab9f540d399813e1392fe30cd",
                 "shasum": ""
             },
             "require": {
@@ -137,7 +137,7 @@
             ],
             "description": "WordPress developer-friendly custom fields for post types, taxonomy terms, users, comments, widgets, options and more.",
             "homepage": "http://carbonfields.net/",
-            "time": "2020-01-16T10:01:40+00:00"
+            "time": "2020-05-18T09:54:56+00:00"
         }
     ],
     "packages-dev": [],
@@ -147,5 +147,6 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
-    "platform-dev": []
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
 }
