@@ -43,7 +43,7 @@
 							<?php endif ?>
 							
 							<td align="<?php echo $is_notification ? 'left' : 'center' ?>" class="email-site-logo" style="padding-left: 30px;">
-								<a href="<?php bloginfo('url') ?>" target="_blank">
+								<a href="<?php bloginfo('url') ?>" target="_blank" style="display: inline-block;">
                                     <img src="{{TEMPLATE_PATH}}/images/logo-white.png" alt="" style="display: block; width: 200px; height: auto;">
                                     <!-- TODO: Swap harbinger logo for website logo -->
 								</a>
