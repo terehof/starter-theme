@@ -1,1 +1,1 @@
-Screenshot generator - https://dummyimage.com/
+Screenshot generator -- https://dummyimage.com/
